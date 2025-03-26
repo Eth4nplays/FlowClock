@@ -21,8 +21,9 @@
 - ✅ **Task & Habit Management** – Helps complete to-dos and maintain good habits.  
 - 🔄 **Adaptive Scheduling** – Adjusts dynamically based on progress and shifting priorities.  
 
-## Website: [FlowClock](https://eth4nplays.wixstudio.com/flowclock/)  
+## Website: [FlowClock](https://eth4nplays.wixstudio.com/taskclock/)  
 
 ## Installation  
 
-- Run APK or Installer and follow the instructions.  
+- ~~Run APK or Installer and follow the instructions.~~
+- Alpha testing is coming soon, so stay tuned!
