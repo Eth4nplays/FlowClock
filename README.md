@@ -10,7 +10,7 @@
 - [x] AI-Powered Scheduling
 - [x] Meal Plans
 - [x] To-Do list
-- [ ] Fitness suggestions
+- [x] Fitness suggestions
 - [x] Profile settings & informations
 - [ ] FlowClock website
 
