@@ -1,3 +1,5 @@
+<img src="https://github.com/user-attachments/assets/8f0ed9e3-a431-4615-abfc-3cf7e098c795" width=30% height=30%>
+
 # FlowClock  
 
 ## FlowClock is an AI-powered lifestyle planning app designed to help users organize their daily schedules efficiently. It creates personalized routines by balancing work, tasks, and personal well-being.  
@@ -22,7 +24,7 @@
 - ✅ **Task & Habit Management** – Helps complete to-dos and maintain good habits.  
 - 🔄 **Adaptive Scheduling** – Adjusts dynamically based on progress and shifting priorities.  
 
-## Website: [FlowClock](https://eth4nplays.wixstudio.com/taskclock/)  
+## Website: ~~[FlowClock](https://eth4nplays.wixstudio.com/taskclock/)~~ Coming Soon 
 
 ## Installation  
 
