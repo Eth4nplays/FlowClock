@@ -14,7 +14,8 @@
 - [x] To-Do list
 - [x] Fitness suggestions
 - [x] Profile settings & informations
-- [ ] FlowClock website
+- [x] FlowClock website
+- [x] FlowClock tutorials
 
 ## Features  
 
