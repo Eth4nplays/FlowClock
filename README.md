@@ -14,6 +14,7 @@
 - [x] To-Do list
 - [x] Fitness suggestions
 - [x] Profile settings & informations
+- [ ] Make the meal times and fitness times customizable
 - [x] FlowClock website
 - [x] FlowClock tutorials
 
