@@ -1,10 +1,10 @@
 {
-    "name": "flowclock",
+    "name": "FlowClock",
     "short_name": "flowclock",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
+    "background_color": "#EDFFFE",
+    "theme_color": "#EDFFFE",
     "description": "Your personal AI lifestyle planner",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
